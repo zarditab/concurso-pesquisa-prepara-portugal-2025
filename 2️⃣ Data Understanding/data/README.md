@@ -10,8 +10,6 @@
 
 ### Tabela 👇
 
-| Fonte  | URL | Data de acesso | Dataset Encontrado | Váriaveis relevantes | Observações |
-| ------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 
 ---
 
